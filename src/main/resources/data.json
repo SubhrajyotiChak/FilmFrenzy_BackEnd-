@@ -1,0 +1,84 @@
+{
+  "MovieTheater": [
+    {
+      "name": "Pinepolis",
+      "location": "4th Floor, Terapolis Mall, 1858/1 Thakur Main Road",
+      "city": "Kolkata, WB",
+      "description": "Trendy theater with funky decor and state-of-the-art technology."
+    },
+    {
+      "name": "ENOX",
+      "location": "3rd Floor, Treasure Mall, 69 Mamud Avenue",
+      "city": "Kolkata, WB",
+      "description": "Modern theater with state-of-the-art facilities and luxurious seating."
+    },
+    {
+      "name": "TVR",
+      "location": "Diamond Plaza, 68 Singh Road",
+      "city": "Kolkata, WB",
+      "description": "Chic and contemporary theater with comfortable seating and excellent acoustics."
+    }
+
+  ],
+  "Movie": [
+    {
+      "name": "The Batman",
+      "duration": 176,
+      "language": "English",
+      "movieType": "Action",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg",
+      "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement. "
+    },
+    {"name" : "Pathan",
+      "duration" : 150,
+      "language" : "Hindi",
+      "movieType" : "Action",
+      "image" : "https://i.pinimg.com/564x/7b/3f/ad/7b3fada7060ff1499d46b69b964be180.jpg",
+      "description": "A retired RAW agent returns to the field to save his country from an imminent terrorist threat."
+    },
+    {"name" : "John Wick",
+      "duration" : 131,
+      "language" : "English",
+      "movieType" : "Action",
+      "image" : "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",
+      "description" : "After the death of his beloved wife, a retired hitman seeks vengeance against the people who wronged him."
+    },
+    {"name" : "Dilwale Dulhania Le Jayenge",
+      "duration" : 189,
+      "language" : "Hindi",
+      "movieType" : "Romantic",
+      "image" : "https://upload.wikimedia.org/wikipedia/en/8/80/Dilwale_Dulhania_Le_Jayenge_poster.jpg",
+      "description" : "A young man and woman fall in love on a trip across Europe, but their respective families disapprove of their relationship."
+    },
+    {"name" : "Naruto Shippuden the Movie",
+      "duration" : 95,
+      "language" : "Japanese",
+      "movieType" : "Animation",
+      "image" : "https://wallpapercave.com/wp/wp8840658.jpg",
+      "description" : "Naruto and his friends must stop a mysterious group of ninja who plan to unleash the power of a dangerous ancient relic."
+    },
+    {"name" : "American Pie Presents: The Naked Mile",
+      "duration" : 97,
+      "language" : "English",
+      "movieType" : "Comedy",
+      "image" : "https://image.tmdb.org/t/p/w500/sreeL5kKj47oofEGVtDKTAcUDY6.jpg",
+      "description" : "Erik Stifler, a college student, decides to participate in the Naked Mile run, a tradition in which participants run naked around the campus."
+    }
+  ],
+  "morningMovieTime": [
+    "10:00 AM",
+    "10:30 AM",
+    "11:00 AM",
+    "11:30 AM",
+    "12:00 AM",
+    "12:30 AM"
+  ],
+  "afternoonMovieTime": [
+    "01:00 PM",
+    "01:30 PM",
+    "02:00 PM",
+    "02:30 PM",
+    "03:00 PM",
+    "03:30 PM"
+  ]
+}
